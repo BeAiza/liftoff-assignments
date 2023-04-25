@@ -8,12 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+![image](https://user-images.githubusercontent.com/109033446/234149240-99a31a00-a82c-4232-9168-4f460220a307.png)
+![image](https://user-images.githubusercontent.com/109033446/234149280-bb59ee6b-92b0-4cca-86c0-fb530e47c3c7.png)
+![image](https://user-images.githubusercontent.com/109033446/234149557-eeeef4f3-a8d0-41cf-8e27-a80c4c9773b4.png)
 
+
+Link to the wireframes above:
+https://www.figma.com/file/kIMaJB3k5pzenJrfro8Y0w/Ideas?type=whiteboard&node-id=0-1&t=z75naP8PSVjxjtnu-0
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/6yKd3j3B/project-tracking
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Apr-23-LC-LiftOff-STL/team-kat

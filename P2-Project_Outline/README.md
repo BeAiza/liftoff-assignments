@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Introducing an innovative web application, tentatively named "Tinder for Restaurants", which aims to solve the perennial issue of selecting a restaurant for dining out. The proposed platform enables users to swipe through an array of restaurants, either indicating their interest or disinterest through the "like" or "dislike" feature. This process simplifies the decision-making process for individuals, couples, or groups, eliminating the hassle of arriving at a consensus on a restaurant. The app's algorithm matches the preferred choices of the users, culminating in the selection of an ideal restaurant for the occasion.
+
 ### Features
-Include Features here
+<p>User Account Creation</p>
+<p>Meal Matching by User(s) (per event)</p>
+<p>Group Matching</p>
+<p>Restaurants Available</p>
+<p>Search by Differing variables (Dietary, allergies, etc)</p>
+<p>Data Security</p>
+
 ### Technologies
-Include Technologies here
+<p>Angular</p>
+<p>SQL</p>
+<p>Java</p>
+<p>HTML</p>
+<p>CSS</p>
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+<p>How to connect to and utilize public API’s</p>
+<p>How to use Open Source Maps</p>
+<p>Deep dive on Spring Security</p>
+<p>How to connect RESTful web apps</p>
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/6yKd3j3B/project-tracking
+

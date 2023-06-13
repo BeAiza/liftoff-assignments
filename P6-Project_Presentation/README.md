@@ -8,3 +8,4 @@ Project power point(https://docs.google.com/presentation/d/1_0_QLuXitIA6s_bvJ8d0
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+[TasteBuddies Project Presentation.pdf](https://github.com/BeAiza/liftoff-assignments/files/11729428/TasteBuddies.Project.Presentation.pdf)
